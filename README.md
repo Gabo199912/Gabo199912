@@ -21,7 +21,7 @@
 
 ###
 
-<h1 data-importer="text" align="center">hey there 👋</h1>
+<h1 data-importer="text" align="center"></h1>
 
 ###
 
