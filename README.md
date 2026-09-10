@@ -21,6 +21,12 @@
 
 ###
 
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://scontent.fgua3-4.fna.fbcdn.net/v/t39.30808-6/546143072_122110065230989366_1470082275929241574_n.png?stp=dst-png&cstp=mx3366x1246&ctp=s3366x1246&_nc_cat=103&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=cnfpUyO9s9kQ7kNvwHwR4cW&_nc_oc=Adq9o7enChoq1TFzrAjk1jf9mXuiQ8oTgEq6IAeBU_zUUAAczeY6PKJ6lwlaLBFRKzjcbQkpW34AIzla1x1AGpdw&_nc_zt=23&_nc_ht=scontent.fgua3-4.fna&_nc_gid=AZVyLenneCIY7K7eBlqilA&_nc_ss=7b2a8&oh=00_AQIM0dRW44XTpnzXpJDzvyD4La7aOB771hOwgelTkMFO9A&oe=6AA90D7D"  />
+</div>
+
+###
+
 <h1 data-importer="text" align="center"></h1>
 
 ###
@@ -55,6 +61,10 @@
 
 ###
 
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
+<h3 data-importer="text" align="left"></h3>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/Gabo199912/Gabo199912/snake-output/snake.svg" alt="Snake animation" />
 
 ###
